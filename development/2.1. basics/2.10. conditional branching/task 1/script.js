@@ -3,6 +3,8 @@
 
 // Если пользователь вводит «ECMAScript», то показать: «Верно!», в противном случае – отобразить: «Не знаете? ECMAScript!».
 
+"use strict";
+
 const readlineSync = require("readline-sync");
 
 let question;
