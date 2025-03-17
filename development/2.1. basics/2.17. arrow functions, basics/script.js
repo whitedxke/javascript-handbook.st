@@ -1,7 +1,7 @@
 // Замените код стрелочной функцией:
 
 // function ask(question, yes, no) {
-//   if (confirm(question)) yes();
+//   if (readlineSync.keyInYN(question)) yes();
 //   else no();
 // }
 
