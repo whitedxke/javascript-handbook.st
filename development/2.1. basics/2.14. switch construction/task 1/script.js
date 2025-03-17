@@ -13,7 +13,7 @@
 //     break;
 
 //   default:
-//     alert("We hope that this page looks ok!");
+//     alert("We hope, that this page looks ok!");
 // }
 
 ("use strict");
@@ -30,5 +30,5 @@ if (browser == "Edge") {
 ) {
   console.log("Okay, we support these browsers too.");
 } else {
-  console.log("We hope that this page looks ok!");
+  console.log("We hope, that this page looks ok!");
 }
